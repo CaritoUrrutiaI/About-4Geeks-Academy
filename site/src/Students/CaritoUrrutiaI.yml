@@ -1,0 +1,186 @@
+#
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Carolina
+    last_name: Urrutia Iturrieta
+    
+    # Define yourself in 4-5 words
+    motto: Collect moments, no things.
+    
+    # focus
+    focus: Minimalist life
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+      Graduada como Tecnologo Medico con especialidad en Otorrinolaringologia,
+      cuento con 10 años de experiencia en el rubro de la salud trabajando 
+      tanto en el area publica como privada.
+
+      Actualmente me encuentro trabajando en una empresa de equipamiento respiratorio
+      y diagnostico neurofisiologico.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: carolina.urrutia.iturrieta@gmail.com #optional
+    phone: +56 9 93765908 #optional
+    website: #optional
+    linkedIn: https://www.linkedin.com/in/carolina-urrutia-iturrieta-267a2391/ #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: https://github.com/CaritoUrrutiaI 
+    
+    twitter: https://twitter.com/CaritoUrrutiaI #optional
+    stack-overflow: 307088/carolina-urrutia-iturrieta # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: Basic
+          
+      - idiom: Spanish
+        level: Native
+
+    # Interests or hobies
+    interests:
+      - item: Read
+
+      - item: Meditation
+
+      - item: Trekking
+
+      - item: Yoga
+
+# Your previous education
+education:
+    - degree: MSc Administracion de Negocios especializacion en salud
+      university: Universidad Andres Bello / Universidad Harvard
+      # optional
+      university_logo: https://www.postgradounab.cl
+      time: 2016 - 2018
+      details: |
+        Magíster en Administración de Negocios (MBA) con Especialización en Salud, está orientado a mejorar el
+        desempeño en 3 áreas de desarrollo que te permitirán abordar mejoras sustanciales con un impacto real 
+        para la institución donde trabajas:
+          - Administración y gestión de procesos de salud.
+          - Innovación y emprendimiento en proyectos de salud.
+          - Evaluación y gestión de proyectos en salud.
+          
+    - degree: BSc Tecnologo Medico Otorrinolaringologia
+      university: Universidad Austral de Chile
+      # optional
+      university_logo: https://www.uach.cl
+      time: 2004 - 2011
+      details: |
+        El Tecnólogo Médico en Otorrinolaringología es un profesional de libre ejercicio capacitado para 
+        realizar exámenes auditivos, de equilibrio y de la función nasal para el apoyo al diagnóstico 
+        médico, como control de tratamientos médico-quirúrgicos.
+
+# Your previous job experiences or voluntier
+experiences:
+    - role: Gerente Zona Sur 
+      time: 2018 - Present
+      company: MGM Productos Medicos Limitada - Puerto Montt
+      # optional
+      company_logo: https://www.mgm.cl
+      details: |
+        Cargo: Gerente Zona sur a cargo de las sucursales de las regiones de Los Rios a Magallanes
+        Empresa especializada en venta de equipos de diagnostico y tratamiento de las areas de: ventilacion
+        mecanica invasiva y no invasiva, equipos de terapia de sueño (CPAP/AutoCPAP/BiPAP/ST/AVAPS), oxigenoterapia,
+        canulas de alto flujo (CNAF) y equipos de diagnostico: Poligrafias Respiratoria, Polisomnografia, EEG.
+          - Apoyo logistico y tecnico para equipos de diagnostico y tratamientos.
+          - Gestion administrativa, analisis contable y financiero.
+          - Visitas medicas y apoyo de marketing
+          - Charlas para medicos y personal del area de la salud.
+          - Seguimiento de Software de tratamiento de equipos de pacientes en terapia
+
+    - role: Audiologo
+      time: 2011 - Present
+      company: Widex, Santiago
+      # optional
+      company_logo: https://www.widex.cl
+      details: |
+        Audiologo para tratamiento y seguimiento de pacientes con problemas auditivos.
+
+    - role: Tecnologo Medico Otorrinolaringolo
+      time: 2019 - Present
+      company: Clinica Puerto Varas, Puerto Varas
+      # optional
+      company_logo: https://www.clinicapv.cl
+      details: |
+        Apoyo diagnostico del area de Otorrinolaringologia
+
+    - role: Tecnologo Medico Otorrinolaringolo
+      time: 2012 - 2018
+      company: Clinica Andes Salud de Puerto Montt, Puerto Montt
+      # optional
+      company_logo: https://www.clinicaandessaludpuertomontt.cl
+      details: |
+        Apoyo diagnostico del area de Otorrinolaringologia y Neurologia
+
+# Your project portfolio
+projects:
+    intro: >
+      
+
+    assignments:
+      - title: 
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+skills:
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
